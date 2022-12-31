@@ -1,3 +1,17 @@
+@font-face {
+	font-family: "mabook";
+	src: url(fonts/Mabook.ttf) format("truetype"),
+		 url(fonts/Mabook.otf) format("opentype");
+}
+
+h1 {
+	font-family: "mabook", sans-serif;
+}
+
+h2 {
+	font-family: "mabook", sans-serif;
+}
+
 body {
     background-color: #001020;
 }
