@@ -62,3 +62,10 @@ div#main-text > * {
     font-size: 20px;
     color: white;
 }
+
+div#thankyou {
+    font-family: sans-serif;
+    font-size: 12px;
+    color: white;
+}
+
