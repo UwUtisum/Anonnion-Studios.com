@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "mabook";
-	src: url(https://cdn.discordapp.com/attachments/742048776260157611/1058865901065207808/Mabook.ttf) format("truetype"), url(https://cdn.discordapp.com/attachments/742048776260157611/1058865922267430942/Mabook.otf) format("opentype");
+	src: url(fonts/Mabook.ttf) format("truetype"), url(fonts/Mabook.otf) format("opentype");
 }
 
 h1 {
